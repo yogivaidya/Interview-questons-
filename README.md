@@ -1,2 +1,2 @@
 # Interview-questons-
-nterview questions for Data Types, Operators, Conditional Statements, Looping Statements, Functions.
+interview questions for Data Types, Operators, Conditional Statements, Looping Statements, Functions.
